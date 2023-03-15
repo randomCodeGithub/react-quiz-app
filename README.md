@@ -1,6 +1,6 @@
 # Quiz app
 
-A simple application created with React.js, with the ифышс functionality: choosing one answer out of four possible, counting the correct answers, progress bar is shown during the quiz, at the end show the number of correct answers, quiz restart
+A simple application created with React.js, with the basic functionality: choosing one answer out of four possible, counting the correct answers, progress bar is shown during the quiz, at the end show the number of correct answers, quiz restart
 
 ## Demo
 
